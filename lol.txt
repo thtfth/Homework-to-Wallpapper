@@ -1,0 +1,5 @@
+/summon villager ~ ~ ~ {VillagerData:{profession:weaponsmith,level:5,type:plains},Invulnerable:1,PersistenceRequired:1,Silent:1,Offers:{Recipes:[{buy:{id:dirt,Count:1},sell:{id:dirt,Count:64},rewardExp:0b,maxUses:9999999}]}}
+
+logs:
+
+/summon villager ~ ~ ~ {VillagerData:{profession:weaponsmith,level:5,type:plains},Invulnerable:1,PersistenceRequired:1,Silent:1,Offers:{Recipes:[{buy:{id:dirt,Count:1},sell:{id:oak_log,Count:64},rewardExp:0b,maxUses:9999999},{buy:{id:dirt,Count:1},sell:{id:dark_oak_log,Count:64},rewardExp:0b,maxUses:9999999},{buy:{id:dirt,Count:1},sell:{id:spruce_log,Count:64},rewardExp:0b,maxUses:9999999},{buy:{id:dirt,Count:1},sell:{id:acacia_log,Count:64},rewardExp:0b,maxUses:9999999},{buy:{id:dirt,Count:1},sell:{id:birch_log,Count:64},rewardExp:0b,maxUses:9999999},{buy:{id:dirt,Count:1},sell:{id:jungle_log,Count:64},rewardExp:0b,maxUses:9999999}]}}
